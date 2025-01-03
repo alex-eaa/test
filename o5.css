@@ -2,6 +2,15 @@
     background-color: blue !important;
 }
 
-.bmpui-ui-settings-panel {
+.bmpui-ui-subtitlesettingsresetbutton {
+    display: none !important;
+}
+
+
+.bmpui-ui-subtitlesettingstogglebutton {
+    display: none !important;
+}
+
+.bmpui-ui-subtitle-overlay {
     display: none !important;
 }
