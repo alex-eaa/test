@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+
+.bmpui-ui-subtitle-overlay .bmpui-ui-subtitle-label {
+    display: none !important;
+}
