@@ -2906,7 +2906,3 @@
 .bmpui-ui-volumetogglebutton {
 	display: none;
 }
-
-.bmpui-ui-subtitle-overlay .bmpui-ui-subtitle-label {
-    display: none !important;
-  }
