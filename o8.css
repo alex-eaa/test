@@ -2,6 +2,6 @@
     background-color: blue !important;
 }
 
-.bmpui-ui-settings-panel-item {
+.bmpui-ui-settings-panel-item:last-child {
     display: none !important;
 }
