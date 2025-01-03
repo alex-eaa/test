@@ -1,3 +1,7 @@
 .bmpui-seekbar-backdrop {
     background-color: orange !important;
 }
+
+.bmpui-ui-settingstogglebutton {
+    display: none !important;
+}
