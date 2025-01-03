@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.bmpui-ui-subtitlesettingsresetbutton {
+    display: none !important;
+}
+
+.bmpui-ui-subtitlesettingstogglebutton {
+    display: none !important;
+}
