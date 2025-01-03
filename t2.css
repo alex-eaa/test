@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.bmpui-ui-settings-panel .bmpui-ui-subtitle-panel {
+    display: none !important;
+}
+
+.bmpui-ui-settings-panel-button-subtitles {
+    display: none !important;
+}
